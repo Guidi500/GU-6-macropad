@@ -1,5 +1,5 @@
 # GU-6-macropad
-a simple 6 key macropad powered by QMK
+a simple 6 key macropad powered by QMK (found here https://github.com/qmk)
 
 
 kit and assembled form available for purchase from Danny
